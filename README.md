@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mirthika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mirthika!</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Inventory Management System**
+- 🔭 I’m currently pursuing **BTech.IT**
 
 - 🌱 I’m currently learning **Full-Stack Development , DevOps(Docker, Kubernetes, CI/CD), AWS Cloud**
-
-- 👯 I’m looking to collaborate on **React Projects**
-
-- 🤝 I’m looking for help with **Expense Tracker Management**
-
-- 💬 Ask me about **React,Docker,DevOps**
 
 - 📫 How to reach me **mirthikasiva05@gmail.com**
 
